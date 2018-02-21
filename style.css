@@ -1,0 +1,19 @@
+body {
+
+
+}
+h1 {
+  font-weight: 600;
+  text-shadow: 2px 2px 2px #000000;
+}
+.wrapper {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  color: #008080;
+  padding: 20px;
+  min-height: 400px;
+  background-color: #660066;
+  margin:  100px 300px;
+}660066
+}
